@@ -1,0 +1,10 @@
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\AplicaciónInfidelidades\AplicaciónInfidelidades\bin\Debug\AplicaciónInfidelidades.exe.config
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\AplicaciónInfidelidades\AplicaciónInfidelidades\bin\Debug\AplicaciónInfidelidades.exe
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\AplicaciónInfidelidades\AplicaciónInfidelidades\bin\Debug\AplicaciónInfidelidades.pdb
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\AplicaciónInfidelidades\AplicaciónInfidelidades\obj\Debug\AplicaciónInfidelidades.csproj.AssemblyReference.cache
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\AplicaciónInfidelidades\AplicaciónInfidelidades\obj\Debug\AplicaciónInfidelidades.csproj.SuggestedBindingRedirects.cache
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\AplicaciónInfidelidades\AplicaciónInfidelidades\obj\Debug\AplicaciónInfidelidades.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\AplicaciónInfidelidades\AplicaciónInfidelidades\obj\Debug\AplicaciónInfidelidades.exe
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\AplicaciónInfidelidades\AplicaciónInfidelidades\obj\Debug\AplicaciónInfidelidades.pdb
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\AplicaciónInfidelidades\AplicaciónInfidelidades\bin\Debug\InfidelidadDB.mdf
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\AplicaciónInfidelidades\AplicaciónInfidelidades\bin\Debug\InfidelidadDB_log.ldf
