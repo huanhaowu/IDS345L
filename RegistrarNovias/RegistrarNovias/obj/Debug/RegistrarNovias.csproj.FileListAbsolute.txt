@@ -1,0 +1,10 @@
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\RegistrarNovias\RegistrarNovias\bin\Debug\Persona.mdf
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\RegistrarNovias\RegistrarNovias\bin\Debug\Relacion.mdf
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\RegistrarNovias\RegistrarNovias\bin\Debug\RegistrarNovias.exe.config
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\RegistrarNovias\RegistrarNovias\bin\Debug\RegistrarNovias.exe
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\RegistrarNovias\RegistrarNovias\bin\Debug\RegistrarNovias.pdb
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\RegistrarNovias\RegistrarNovias\obj\Debug\RegistrarNovias.csproj.AssemblyReference.cache
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\RegistrarNovias\RegistrarNovias\obj\Debug\RegistrarNovias.csproj.SuggestedBindingRedirects.cache
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\RegistrarNovias\RegistrarNovias\obj\Debug\RegistrarNovias.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\RegistrarNovias\RegistrarNovias\obj\Debug\RegistrarNovias.exe
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\RegistrarNovias\RegistrarNovias\obj\Debug\RegistrarNovias.pdb

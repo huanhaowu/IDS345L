@@ -1,0 +1,10 @@
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\ConexionBD\Practica1\bin\Debug\DB.mdf
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\ConexionBD\Practica1\bin\Debug\DB_log.ldf
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\ConexionBD\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\ConexionBD\Practica1\bin\Debug\Practica1.exe
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\ConexionBD\Practica1\bin\Debug\Practica1.pdb
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\ConexionBD\Practica1\obj\Debug\Practica1.csproj.AssemblyReference.cache
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\ConexionBD\Practica1\obj\Debug\Practica1.csproj.SuggestedBindingRedirects.cache
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\ConexionBD\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\ConexionBD\Practica1\obj\Debug\Practica1.exe
+C:\Users\msi\OneDrive - INTEC\INTEC\Trimestre 7\Desarrollo de software III\Laboratorio\ConexionBD\Practica1\obj\Debug\Practica1.pdb
